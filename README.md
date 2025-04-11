@@ -1,2 +1,0 @@
-# AMIN-CS
-to develop
